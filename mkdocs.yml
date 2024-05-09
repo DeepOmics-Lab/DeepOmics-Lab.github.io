@@ -1,0 +1,13 @@
+site_name: DeepOmics Lab
+theme:
+  name: material
+
+nav:
+    - Home: home.md
+    - Research: research.md
+    - Publications: publications.md
+    - Members: members.md
+    - Software: softwares.md
+    - Data: data.md
+    - Join Us: joinus.md
+
